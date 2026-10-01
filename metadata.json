@@ -1,0 +1,6 @@
+{
+  "name": "SIMPOS-Inv - Sistem Manajemen Penjualan & Stok",
+  "description": "Sistem Informasi Manajemen Penjualan, Stok, dan Keluar Masuk Barang (POS & Inventory) terpadu dengan Kartu Stok Audit Trail, Barcode/SKU, dan Laporan Finansial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
